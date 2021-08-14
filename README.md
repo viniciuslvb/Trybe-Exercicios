@@ -9,7 +9,7 @@ The Trybe program has more than 1,500 hours of classroom and online classes and 
 
 See our curriculum details and associated training projects:
 
-<h2> Introducing - Web Development ✅ </h2>
+<h2> Introducing - Web Development </h2>
 
 <b> Block 1: Introduction - Unix & Shell </b>
 
