@@ -1,14 +1,14 @@
-<h1> All Trybe School Activities </h1>
+<h1> Trybe </h1>
 
-This repository contains a readme, created while studying at Trybe.
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por Vinicius Lopes Vilas Boas enquanto estuda na Trybe.  
 
-The Trybe program has more than 1,500 hours of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
+<i> " A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso na tecnologia. </i>
 
-See our curriculum details and associated training projects:
+O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, frot-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. 
 
-<h2> Introducing - Web Development </h2>
+<h2> Introdução - Dsenvolvimento Web </h2>
 
-<b> Block 1: Introduction - Unix & Shell </b>
+<b> Bloco 1: Introducão - Unix & Shell </b>
 
-<b> Block 2: Git, GitHub, Internet </b>
+<b> Bloco 2: Git, GitHub, Internet </b>
 
