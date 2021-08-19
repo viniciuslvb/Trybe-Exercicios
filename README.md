@@ -12,3 +12,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 <b> Bloco 2: Git, GitHub, Internet </b>
 
+<b> Bloco 3: Introdução à HTML e CSS </b>
+
