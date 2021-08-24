@@ -1,0 +1,51 @@
+body {
+    background-color: aquamarine;
+}
+
+h2, h3 {
+    color: green;
+}
+
+p {
+    text-align: justify;
+}
+
+.header {
+    background-color: aquamarine;
+    color: green;
+    text-align: center;
+}
+
+.nav {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    background-color: aquamarine;
+    color: green;
+    width: 200px;
+}
+
+.dados li {
+    list-style: none;
+    display: inline-block;
+    font-weight: bold;
+    width: 200px;
+
+}
+
+.section1 {
+    display: inline-block;
+    max-width: 300px;
+}
+
+.section2, .section3 {
+    display: inline-block;
+    max-width: 400px;
+    margin-left: 50px;
+}
+
+
+
